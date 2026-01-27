@@ -8,7 +8,7 @@
 - Undetected flight
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmaboyskibdi/project-ventura/refs/heads/v2/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmaboyskibdi/project-ventura/refs/heads/main/script.lua"))()
 ```
 
 Tested on VOLT
