@@ -13,4 +13,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmaboyskibdi/projec
 
 Tested on VOLT
 
-[![video](https://github.com/sigmaboyskibdi/project-ventura/raw/refs/heads/v2/assets/antiflight%20bypass.mp4)](https://github.com/sigmaboyskibdi/project-ventura/raw/refs/heads/v2/assets/antiflight%20bypass.mp4)
+Video https://raw.githubusercontent.com/sigmaboyskibdi/project-ventura/refs/heads/v2/assets/antiflight%20bypass.mp4
