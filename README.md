@@ -1,10 +1,14 @@
 # project-ventura
 
-INFINITE CASH
-ANTICHEAT BYPASS
-CAR MODS
-ANTI JAIL
+- Car Mods
+- Jail Skip
+- Anti Arrest
+- Moderator Alerter
+- Anticheat Bypass
+- Undetected flight
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmaboyskibdi/project-ventura/refs/heads/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmaboyskibdi/project-ventura/refs/heads/v2/script.lua"))()
 ```
+
+Tested on VOLT
